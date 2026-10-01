@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MY DREAM WEBSITE</title>
+</head>
+<body style="background-color:lightblue;">
+    <h1 style="color:purple;text-align:center;">My Dream Website</h1>
+    <p style="color:yellow;text-align:center;">Welcome To My Website!</p>
+    
+    <div style="background-color:lightpink;text-align:center;color:black;">
+    <b>Home | About Me | My Dream | Contact |</b>
+    </div>
+
+    <style>
+        .box {
+            margin: 20px;
+            padding: 20px;
+            border: 2px solid black;
+        }
+    </style>
+
+<body>
+
+    <div class="box">
+        <h2 style="background-color:lightpink;color:indigo;">Welcome!</h2>
+        <p>Hello! Our name is <b>Zeth Gonzales</b> and <b>Cedrick Arillaga</b>. Welcome to our personal website.</p>
+        <img src="https://ist.ac.at/wp-content/uploads/2022/06/image_BLUE_oceancShutterstock.jpg"
+        alt="Ocean"
+        width="300"
+        height="300"
+    </div>
+    
+    <style>
+        .box {
+            margin: 20px;
+            padding: 20px;
+            border: 2px solid black;
+        }
+    </style>
+
+
+    <div class="box">
+        <h2 style=background-color:lightpink;color:blue;">About Me</h2>
+        <p>Im a student who enjoys <mark>learning HTML CSS</mark> and <mark>practicing codings</mark>.</p>
+    </div>
+    
+
+    <div class="box">
+        <h2 style=background-color:lightpink;color:red;">My Dream</h2>
+        <p>My dream is to become a <i>successful</i> and have a <i>healthy lifestyle</i>.</p>
+        <p>I want to achieve this because I want to prove that <strong>I can</strong> and <strong>I will</strong>.</p>
+    </div>
+
+    <style>
+        .box {
+            margin: 20px;
+            padding: 20px;
+            border: 2px solid black;
+        }
+    </style>
+
+    <div class="box">
+        <h2 style=background-color:lightpink;color:green;">Contact Me</h2>
+        <p>Email: <i>zethlarahgonzales@gmail.com</i></p>
+        <p>Facebook: <i>zeth gonzales</i></p>
+    </div>
+
+    <style>
+        .box {
+            margin: 5px;
+            padding: 5px;
+            border: 2px solid black;
+        }
+    </style>
+    
+    <style>
+        .box {
+            margin: 5px;
+            padding: 5px;
+            border: 2px solid black;
+        }
+    </style>
+
+    <div class="box">
+        <p style="text-align:center;"><small>Created by Zeth and Cedrick | Grade 8 Programming</small></p>
+    </div>
+
+    <style>
+        .box {
+            margin: 5px;
+            padding: 5px;
+            border: 2px solid black;
+        }
+    </style>
+</body>
+</html>
